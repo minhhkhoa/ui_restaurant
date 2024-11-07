@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21194864709",
+    "project_id": "b1x1-layout",
+    "storage_bucket": "b1x1-layout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21194864709:android:7074b21c563d57cad38b2c",
+        "android_client_info": {
+          "package_name": "com.example.b1x1layout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgI1Dj0AZuvWhooDYN4t56soNFiNVxJv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
